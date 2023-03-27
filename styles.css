@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.container{
+	background-color : #f5f5f5;
+	padding: 20px;
+}
+.comment{
+	font-size: 10px;
+	padding: 8px;
+	margin:10px;
+	border: solid 2px #EAEAEA;
+}
+.author{
+	text-align: right;
+	font-style: italic;
+}
